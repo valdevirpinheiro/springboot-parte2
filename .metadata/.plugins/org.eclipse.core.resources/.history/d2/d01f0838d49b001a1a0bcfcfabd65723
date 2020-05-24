@@ -1,0 +1,12 @@
+package br.com.alura.forum.controller.dto;
+
+public class TokenDto {
+
+	private String token;
+	private String tipo;
+	
+	public TokenDto(String token, String tipo) {
+		// TODO Auto-generated constructor stub
+	}
+
+}
